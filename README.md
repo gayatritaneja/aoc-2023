@@ -27,12 +27,12 @@ I wasn't able to finish this after spending a loooonnnngggg time trying. Hopeful
 ## Day 4
 The good old GP did the trick for part 1, but part two was a little tricky, I was eventually able to figure it out though.  
 
-![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/9082fbcb-d304-45dd-89e2-be919dacf387)
+![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/6b4da941-e674-49c4-905d-a4ae95f6de31)
 
 ## Day 6
 Yeah, this is the joke of AOC. I planned to not continue after day 4 but how could I have skipped *The Joke*. Most people did it by hand (and a calculator) but I felt kinda lazy or maybe scared (If you know me, one BIG talent that I possess is calculation errors) so I spent 5 mins typing instead. 
 
-
+![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/9082fbcb-d304-45dd-89e2-be919dacf387)
 
 
 
