@@ -6,30 +6,33 @@ However, unfortunately, AOC had to start the same day as my preboards (If you kn
 
 This is kind of like a meme collection for different days that I did along with my take on them.
 
+![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/33239204-9ea2-42f3-a41e-83fcf8749231)
+
 ## Day 1
 Part one was okay but part 2 ...........took me a very long time to figure the notorious _oneightwo_.
 
-![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/33239204-9ea2-42f3-a41e-83fcf8749231)
+![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/32d0a068-a287-4296-8e01-875ad2a9c781)
 
 ## Day 2
 Fairly simple! Kinda needed after the entire fiasco with day 1.
 
-![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/32d0a068-a287-4296-8e01-875ad2a9c781)
+![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/70f70a1d-84e2-4fef-9a8d-d1dff12b24d9)
 
 ## Day 3
 I wasn't able to finish this after spending a loooonnnngggg time trying. Hopefully, I will give it another look after my exams!
 
-![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/70f70a1d-84e2-4fef-9a8d-d1dff12b24d9)
+![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/93bbee85-4539-43f9-9bb1-ca82781c0e77)
 
 ## Day 4
 The good old GP did the trick for part 1, but part two was a little tricky, I was eventually able to figure it out though.  
 
-![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/93bbee85-4539-43f9-9bb1-ca82781c0e77)
+![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/9082fbcb-d304-45dd-89e2-be919dacf387)
 
 ## Day 6
 Yeah, this is the joke of AOC. I planned to not continue after day 4 but how could I have skipped *The Joke*. Most people did it by hand (and a calculator) but I felt kinda lazy or maybe scared (If you know me, one BIG talent that I possess is calculation errors) so I spent 5 mins typing instead. 
 
-![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/9082fbcb-d304-45dd-89e2-be919dacf387)
+
+
 
 
 And that is it, I'll update this once I've made some progress.
