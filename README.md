@@ -16,12 +16,12 @@ Part one was okay but part 2 ...........took me a very long time to figure the n
 ## Day 2
 Fairly simple! Kinda needed after the entire fiasco with day 1.
 
-![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/70f70a1d-84e2-4fef-9a8d-d1dff12b24d9)
+![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/93bbee85-4539-43f9-9bb1-ca82781c0e77)
 
 ## Day 3
 I wasn't able to finish this after spending a loooonnnngggg time trying. Hopefully, I will give it another look after my exams!
 
-![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/93bbee85-4539-43f9-9bb1-ca82781c0e77)
+![image](https://github.com/gayatritaneja/aoc-2023/assets/63981052/70f70a1d-84e2-4fef-9a8d-d1dff12b24d9)
 
 ## Day 4
 The good old GP did the trick for part 1, but part two was a little tricky, I was eventually able to figure it out though.  
