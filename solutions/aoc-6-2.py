@@ -1,4 +1,3 @@
-#Day 6- The biggest joke in the history of AOC?!
 import numpy as np
 
 time = 58996469
